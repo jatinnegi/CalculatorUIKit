@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B2E4C1EC2D8EB2A6008FAC8A /* Exceptions for "CalculatorUIKit" folder in "CalculatorUIKit" target */ = {
+		B2E4C2142D8EB337008FAC8A /* Exceptions for "CalculatorUIKit" folder in "CalculatorUIKit" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B2E4C1DC2D8EB2A6008FAC8A /* CalculatorUIKit */ = {
+		B2E4C20D2D8EB337008FAC8A /* CalculatorUIKit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B2E4C1EC2D8EB2A6008FAC8A /* Exceptions for "CalculatorUIKit" folder in "CalculatorUIKit" target */,
+				B2E4C2142D8EB337008FAC8A /* Exceptions for "CalculatorUIKit" folder in "CalculatorUIKit" target */,
 			);
 			path = CalculatorUIKit;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		B2E4C1D12D8EB2A6008FAC8A = {
 			isa = PBXGroup;
 			children = (
-				B2E4C1DC2D8EB2A6008FAC8A /* CalculatorUIKit */,
+				B2E4C20D2D8EB337008FAC8A /* CalculatorUIKit */,
 				B2E4C1DB2D8EB2A6008FAC8A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B2E4C1DC2D8EB2A6008FAC8A /* CalculatorUIKit */,
+				B2E4C20D2D8EB337008FAC8A /* CalculatorUIKit */,
 			);
 			name = CalculatorUIKit;
 			packageProductDependencies = (
