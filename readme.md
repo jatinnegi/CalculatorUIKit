@@ -1,4 +1,3 @@
-![Illustration](./assets/calculator-ui-kit-readme-img.png)
 # CalculatorUIKit
 
 This app was created to get familiar with **iOS developement** using **Storyboard**.
@@ -13,3 +12,5 @@ This app was created to get familiar with **iOS developement** using **Storyboar
 * **Enums and Switch statements:** Replace multiple if-else conditional statements with switch statements and enums to create more robust, readable and maintainable code.
 * **Computed properties**: To calculate values dynamically.
 * **Guard statements**: Safely unwrap optional values in swift.
+
+![Illustration](./assets/calculator-ui-kit-readme-img.png)
