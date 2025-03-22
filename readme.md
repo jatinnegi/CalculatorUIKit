@@ -1,3 +1,4 @@
+![Illustration](./assets/calculator-ui-kit-readme-img.png)
 # CalculatorUIKit
 
 This app was created to get familiar with **iOS developement** using **Storyboard**.
