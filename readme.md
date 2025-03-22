@@ -13,4 +13,4 @@ This app was created to get familiar with **iOS developement** using **Storyboar
 * **Computed properties**: To calculate values dynamically.
 * **Guard statements**: Safely unwrap optional values in swift.
 
-![Illustration](./assets/calculator-ui-kit-readme-img.png)
+![Illustration](./assets/xcode-screenshot.png)
